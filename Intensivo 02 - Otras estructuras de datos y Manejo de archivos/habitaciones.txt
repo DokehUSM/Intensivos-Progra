@@ -1,0 +1,6 @@
+cocina:sra. escarlata,sr. verdi,sra. blanco
+salon:coronel mostaza,sra. peacock
+terraza:dr. muerte
+comedor:prof. pluma,sra. peacock,coronel mostaza,sra. blanco,sr. verdi
+estudio:prof. pluma,sra. escarlata,coronel mostaza
+biblioteca:sra. peacock,sra. escarlata,sr. verdi,prof. pluma

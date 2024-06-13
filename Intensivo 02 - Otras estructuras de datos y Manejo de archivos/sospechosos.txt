@@ -1,0 +1,7 @@
+sra. escarlata:pelo rubio,mujer
+coronel mostaza:pelo rubio,hombre
+sra. blanco:mujer,canas
+sr. verdi:canas,hombre
+sra. peacock:mujer,canas,lentes
+prof. pluma:canas,hombre,lentes
+dr. muerte:hombre,lentes
